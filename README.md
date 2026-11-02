@@ -1,4 +1,4 @@
-# avnester-com
+# AVnester
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-avnester-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://avnester.com/
+AVnester is an Indian AI‑powered real‑estate platform that helps users find verified resale properties, explore new builder projects, compare localities, track price trends, and make confident buying decisions across Tamil Nadu. It offers property listings in over 600 cities, AI tools, calculators, and market intelligence to streamline the home‑buying process.
+
+**Areas:** Real Estate · AI · Property Listings · India · Marketplace
+
+## AVnester on APIs.io
+
+Everything profiled for AVnester is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/avnester-com/](https://apis.io/providers/avnester-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AVnester Public API](https://apis.io/apis/avnester-com/avnester-com-public-api/) — The public API from AVnester — 1 operation(s) for public.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Avnester Com Agentic Access](https://apis.io/agentic-access/avnester-com/avnester-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AVnester API Rules](https://apis.io/rules/avnester-com/avnester-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Avnester Com Authentication](https://apis.io/security/avnester-com/avnester-com-authentication/)
+- [Avnester Com Domain Security](https://apis.io/security/avnester-com/avnester-com-domain-security/)
+- [Avnester Com Trust Center](https://apis.io/security/avnester-com/avnester-com-trust-center/)
+- [Avnester Com Vulnerability Disclosure](https://apis.io/security/avnester-com/avnester-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Avnester Com Scopes](https://apis.io/scopes/avnester-com/avnester-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Avnester Com Plans Pricing](https://apis.io/plans/avnester-com/avnester-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://avnester.com/)
+- [API reference](https://developers.avnester.com/)
+- [Pricing](https://avnester.com/pricing)
+- [Support](https://avnester.com/contact)
+- [Security](https://avnester.com/legal/security)
+- [Compliance](https://avnester.com/trust)
+- [Terms of service](https://avnester.com/terms)
+- [Privacy policy](https://avnester.com/privacy)
+- [Status](https://avnester.com/status)
+
+## API Evangelist rating
+
+**Kin Score 56.8** — strong · rubric 0.25.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 42.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 88.9 |
+
+**Agent readiness 44.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 41.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/avnester-com/](https://apis.io/providers/avnester-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AVnester: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/avnester-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
